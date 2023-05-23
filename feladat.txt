@@ -1,4 +1,4 @@
-1. pdf feladatleírás korábbi éretségi is lehet stb
+1. pdf feladatleírás korábbi éretségi is lehet stb   1. összegzes 2. megszamlalo 3. min/max 4. lineáris keresés 5. rendezés 6. kiválasztás
 2. saját txt irás minimum 5-6 sor
 3. C# megirasa hozza
 ha profi vagy 4.weboldal hozza 
