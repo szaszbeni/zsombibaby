@@ -1,4 +1,24 @@
-1. pdf feladatleírás korábbi éretségi is lehet stb   1. összegzes 2. megszamlalo 3. min/max 4. lineáris keresés 5. rendezés 6. kiválasztás
+1. pdf feladatleírás korábbi éretségi is lehet stb 
+ -- 1. összegzes 2. megszamlalo 3. min/max 4. lineáris keresés 5. rendezés 6. kiválasztás
 2. saját txt irás minimum 5-6 sor
 3. C# megirasa hozza
 ha profi vagy 4.weboldal hozza 
+
+Zsombi és Beni egy héten át tesztelték hány csokit birnak megenni összesen. A hét végére már jóval kevesebb csokit 
+birtak megenni mint a hét elején. Egy nap töbnyire 6-szor ettek csokit.
+
+1.Összegezd hogy hány csokit evett meg Zsombor és Beni összesen (összegzés tételével számolj).
+2.Hány MILKA csokit ettek meg ősszesen mind a ketten(megszámlálás tételével)?
+3.Melyik nap ették a legtöbb és melyik nap ették a legkevesebb csokit(max/min tétele)?
+4.Határozd meg hogy ettek e ananászos Tibi csokit, ha nem azt irasd ki(lineáris kereses tételével).
+5.Rendezd a csokikat nap szerint növekvő sorrendbe(rendezés tételébel).
+6.Válogasd ki a Boci csokikat és irasd ki(Kiválasztás tételével).
+
+
+hétfő;kedd;szerda;csütörtök;péntek;szombat;vasárnap
+Sport szelet;bounty;tucckekszes milka;m&m's;mars;sport szelet;bueno;
+egész mogyoros milka;snikers;bubis mika;meggyes milka;twix;pralinés milka;country;
+mars;fehércsokis boci;pralinés milka;cseresznyés milka;bohóc;oreos milka;maxiking;
+twix;tripla csokis milka;karamellás milka;snikers;twix;kinder;...;
+snikers;kókuszos boci;málnás milka;áfonyás sajttórtás boci;mars;...;...;
+epres milka;oreos milka;..;sárga barackos boci;...;...;...;
