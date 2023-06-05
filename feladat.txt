@@ -4,15 +4,17 @@
 3. C# megirasa hozza
 ha profi vagy 4.weboldal hozza 
 
-Zsombi és Beni egy héten át tesztelték hány csokit birnak megenni összesen. A hét végére már jóval kevesebb csokit 
-birtak megenni mint a hét elején. Egy nap töbnyire 6-szor ettek csokit.
+Zsombi és Beni tesztelték hány csokit birnak megenni összesen. A végére már jóval kevesebb csokit 
+birtak megenni mint az elején. Egy nap töbnyire 6-szor ettek csokit.
 
-1.Összegezd hogy hány csokit evett meg Zsombor és Beni összesen (összegzés tételével számolj).
-2.Hány MILKA csokit ettek meg ősszesen mind a ketten(megszámlálás tételével)?
-3.Melyik nap ették a legtöbb és melyik nap ették a legkevesebb csokit(max/min tétele)?
-4.Határozd meg hogy ettek e ananászos Tibi csokit, ha nem azt irasd ki(lineáris kereses tételével).
-5.Rendezd a csokikat nap szerint növekvő sorrendbe(rendezés tételébel).
-6.Válogasd ki a Boci csokikat és irasd ki(Kiválasztás tételével).
+1. Olvassa be az diakok.txt állományban lévő adatokat, és tárolja el olyan 
+adatszerkezetben, amely a további feladatok megoldására alkalmas!
+2.Összegezd hogy hány napon at evett Zsombor és Beni (összegzés tételével számolj).
+3.Mennyibe kerultek azok a csokik amikbol a legtobb fogyott (megszámlálás tételével)?
+4.Melyik csokibol ettek a legtobbett es melyikbol a legkevesebbet(max/min tétele)?
+5.Határozd meg hogy ettek e Tibi csokit, ha nem azt irasd ki(lineáris kereses tételével).
+6.Rendezd a csokikat nap szerint növekvő sorrendbe(rendezés tételébel).
+7.Válogasd ki a Boci csokikat és irasd ki(Kiválasztás tételével).
 
 
 hétfő;kedd;szerda;csütörtök;péntek;szombat;vasárnap
