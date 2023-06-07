@@ -1,0 +1,8 @@
+Napok;Csokik(kockankent);Márkak;Áruk
+hétfő;55;Sport szelet;2000
+Kedd;85;mars;5000
+szerda;70;boci;4500
+csütörtök;48;Bounty;6500
+péntek;90;milka;4000
+szombat;40;snikers;9600
+vasárnap;100;m&m's;2000
