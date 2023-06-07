@@ -2,25 +2,17 @@
  -- 1. összegzes 2. megszamlalo 3. min/max 4. lineáris keresés 5. rendezés 6. kiválasztás
 2. saját txt irás minimum 5-6 sor
 3. C# megirasa hozza
-ha profi vagy 4.weboldal hozza 
 
-Zsombi és Beni tesztelték hány csokit birnak megenni összesen. A végére már jóval kevesebb csokit 
-birtak megenni mint az elején. Egy nap töbnyire 6-szor ettek csokit.
+Zsombi és Beni tesztelték hány csokit bírtak megenni összesen. A végére már jóval kevesebb csokit bírtak megenni mint az elején. Egy nap többnyire 6-szor ettek csokit. Minden nap más fajta csokit ettek.
 
-1. Olvassa be az diakok.txt állományban lévő adatokat, és tárolja el olyan 
-adatszerkezetben, amely a további feladatok megoldására alkalmas!
-2.Összegezd hogy hány napon at evett Zsombor és Beni (összegzés tételével számolj).
-3.Mennyibe kerultek azok a csokik amikbol a legtobb fogyott (megszámlálás tételével)?
-4.Melyik csokibol ettek a legtobbett es melyikbol a legkevesebbet(max/min tétele)?
-5.Határozd meg hogy ettek e Tibi csokit, ha nem azt irasd ki(lineáris kereses tételével).
-6.Rendezd a csokikat nap szerint növekvő sorrendbe(rendezés tételébel).
-7.Válogasd ki a Boci csokikat és irasd ki(Kiválasztás tételével).
+1. Olvassa be az csokik.txt állományban lévő adatokat, és tárolja el olyan adatszerkezetben, amely a további feladatok megoldására alkalmas!
 
+2.Összegezd hogy hány napon át evett Zsombor és Beni (összegzés tételével számolj).
 
-hétfő;kedd;szerda;csütörtök;péntek;szombat;vasárnap
-Sport szelet;bounty;tucckekszes milka;m&m's;mars;sport szelet;bueno;
-egész mogyoros milka;snikers;bubis mika;meggyes milka;twix;pralinés milka;country;
-mars;fehércsokis boci;pralinés milka;cseresznyés milka;bohóc;oreos milka;maxiking;
-twix;tripla csokis milka;karamellás milka;snikers;twix;kinder;...;
-snikers;kókuszos boci;málnás milka;áfonyás sajttórtás boci;mars;...;...;
-epres milka;oreos milka;..;sárga barackos boci;...;...;...;
+3.Hány fajta csoki fogyott a napokon (megszámlálás tételével)?
+
+4.Melyik csokiból ettek a legtöbbet es melyikbol a legkevesebbet(max/min tétele)?
+
+5.Határozd meg hogy ettek e snickers csokit, ha nem azt írasd ki (lineáris keresés tételével).
+
+6.Rendezd a csokikat növekvő sorrendbe (rendezés tételével)
